@@ -1,0 +1,6 @@
+/home/jason/code_space/CircuitBoardDetection/code/build/CMakeFiles/rebuild_cache.dir
+/home/jason/code_space/CircuitBoardDetection/code/build/CMakeFiles/edit_cache.dir
+/home/jason/code_space/CircuitBoardDetection/code/build/CMakeFiles/quan_cv.dir
+/home/jason/code_space/CircuitBoardDetection/code/build/CMakeFiles/orb_cv.dir
+/home/jason/code_space/CircuitBoardDetection/code/build/CMakeFiles/mad_cv.dir
+/home/jason/code_space/CircuitBoardDetection/code/build/CMakeFiles/sift_cv.dir
